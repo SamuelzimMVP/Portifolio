@@ -15,7 +15,7 @@ O portfólio foi construído com foco em performance e design moderno, utilizand
 A página apresenta os principais projetos disponíveis no meu GitHub:
 
 1.  **ENEM Speedrun**: Plataforma educacional Full-Stack.
-2.  **Caroba Contabilidade**: Sistema web para serviços contábeis.
+2.  **Caroba Contabilidade**: Sistema web para empresa de serviços contábeis.
 3.  **Taskflow**: Gerenciador de tarefas para equipes.
 
 ## 🧑‍💻 Contato
