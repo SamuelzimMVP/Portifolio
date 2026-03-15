@@ -24,5 +24,3 @@ Você pode me encontrar em:
 *   **GitHub:** [SamuelzimMVP](https://github.com/SamuelzimMVP)
 *   **LinkedIn:** [Samuel R. Caroba](https://www.linkedin.com/in/samuel-rodrigues-7b7538360/)
 *   **Email:** samuelcaroba08@gmail.com
-
-Este projeto foi gerado e publicado seguindo sua solicitação inicial.
